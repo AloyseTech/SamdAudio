@@ -1,4 +1,4 @@
-= Audio Library for Arduino Zero or SAMD based boards=
+= Audio Library for Arduino Zero or SAMD based boards =
 
 The SamdAudio library enables an Arduino Zero board to playback 8bit .wav files 
 from a storage device like an SD card, without blocking program execution.
